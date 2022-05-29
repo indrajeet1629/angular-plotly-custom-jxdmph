@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "origin"]
+	url = https://github.com/indrajeet1629/angular-plotly-custom-jxdmph.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
